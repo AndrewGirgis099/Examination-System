@@ -1,0 +1,14 @@
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..GeneratedMSBuildEditorConfig.editorconfig
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..AssemblyInfoInputs.cache
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..AssemblyInfo.cs
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..csproj.CoreCompileInputs.cache
+F:\Route Backend\ExamSol.oop\ExamSol\bin\Debug\net6.0\ExamSol..exe
+F:\Route Backend\ExamSol.oop\ExamSol\bin\Debug\net6.0\ExamSol..deps.json
+F:\Route Backend\ExamSol.oop\ExamSol\bin\Debug\net6.0\ExamSol..runtimeconfig.json
+F:\Route Backend\ExamSol.oop\ExamSol\bin\Debug\net6.0\ExamSol..dll
+F:\Route Backend\ExamSol.oop\ExamSol\bin\Debug\net6.0\ExamSol..pdb
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..dll
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\refint\ExamSol..dll
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..pdb
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ExamSol..genruntimeconfig.cache
+F:\Route Backend\ExamSol.oop\ExamSol\obj\Debug\net6.0\ref\ExamSol..dll
